@@ -12,7 +12,7 @@ This is a simple Python script that allows you to download YouTube videos using 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone git@github.com:codewithkim1/Youtube-Video-Downloader.git
 ```
 
 2. Install the 
